@@ -1,0 +1,10 @@
+mkdir node_project
+cd node_project
+
+# Install NodeJS
+sudo apt install nodejs
+sudo apt install npm
+
+# Install project deps
+npm install
+
