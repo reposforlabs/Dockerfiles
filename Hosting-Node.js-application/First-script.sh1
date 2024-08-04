@@ -1,5 +1,7 @@
 mkdir node_project
 cd node_project
+mkdir views
+mkdir views/css
 
 # Install NodeJS
 sudo apt install nodejs
